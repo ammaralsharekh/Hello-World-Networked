@@ -1,0 +1,8 @@
+path :-/Users/test/GitHub/Hello-World-Networked/Build
+
+
+/Users/test/GitHub/Hello-World-Networked/Build/GoldenPath.app/Contents/MacOS/Hello-World-Networked -mlapi server -logfile -
+/Users/test/GitHub/Hello-World-Networked/Build/GoldenPath.app/Contents/MacOS/Hello-World-Networked -mlapi client -logfile -
+
+
+/Users/test/GitHub/Hello-World-Networked/Build/GoldenPath.app/Contents/MacOS/Hello-World-Networked -mlapi server -logfile - & ; ~ /Users/test/GitHub/Hello-World-Networked/Build/GoldenPath.app/Contents/MacOS/Hello-World-Networked -mlapi client -logfile -
