@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/__Scenes/GoldenPath_Two.unity
+    guid: 7c2943c5e8c674874b32531d9c73a6ed
+  - enabled: 1
     path: Assets/__Scenes/goldenpath.unity
     guid: 38f82a6718088476fa73ef49f1facf27
   - enabled: 1
